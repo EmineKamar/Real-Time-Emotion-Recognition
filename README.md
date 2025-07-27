@@ -1,5 +1,5 @@
 # Real-Time-Emotion-Recognition
-# Gemma Real-Time Emotion Recognition
+
 
 Gerçek zamanlı ses tabanlı duygu tanıma sistemi.
 
